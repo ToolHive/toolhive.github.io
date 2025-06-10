@@ -1,6 +1,3 @@
-<link rel="stylesheet" href="style.css">
-<link rel="icon" type="image/png" href="favicon-512.png">
-<meta name="description" content="ToolHive helps your company track tools, vendors, and data to stay compliant with GDPR, NIS2, and ePrivacy.">
 <p align="center">
   <img src="https://raw.githubusercontent.com/ToolHive/toolhive.github.io/refs/heads/main/full.webp" alt="ToolHive logo" width="200">
 </p>
