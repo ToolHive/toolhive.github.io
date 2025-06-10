@@ -35,11 +35,11 @@ Built for startups, scale-ups, and teams that care about privacy without the leg
 
 ## 💛 Our Core Values
 
-### 🧠 No AI – You must stay in control
+### 🧠 No AI, You must stay in control
 AI won’t stand in front of the authorities when something goes wrong.  
 You will.
 
-That’s why ToolHive avoids AI-driven decision-making. You stay in charge of your data, tools, and compliance — with full visibility and clear decisions.
+That’s why ToolHive avoids AI-driven decision-making. You stay in charge of your data, tools, and compliance, with full visibility and clear decisions.
 
 ### 🌍 Compliance is for everyone
 Legal texts are complicated. From data privacy to NIS2 to ePrivacy, there’s a lot to keep track of.
