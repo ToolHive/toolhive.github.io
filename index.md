@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="style.css">
+<link rel="icon" type="image/png" href="favicon-512.png">
 <meta name="description" content="ToolHive helps your company track tools, vendors, and data to stay compliant with GDPR, NIS2, and ePrivacy.">
 <p align="center">
   <img src="https://raw.githubusercontent.com/ToolHive/toolhive.github.io/refs/heads/main/full.webp" alt="ToolHive logo" width="200">
@@ -17,8 +18,10 @@ We make it easy to track software tools, vendors, and data across your entire or
 - 🌐 [Visit our main website](https://toolhive.io) to learn more about the product and our mission.
 - 📰 [Read the ToolHive blog](https://toolhive.io/blog) for insights on GDPR, NIS2, and staying compliant.
 - 📋 [Log into the ToolHive app](https://toolhive.app) and start organizing your tools and data.
-- 💬 [Suggest a feature or join the discussion](https://github.com/ToolHive/toolhive) on our GitHub community repo.
-
+- 📺 [Watch our tutorials on YouTube](https://www.youtube.com/@toolhive) to see ToolHive in action.
+- 💼 [Follow us on LinkedIn](https://www.linkedin.com/company/toolhive) for updates and compliance tips.
+- 💬 [Join the conversation or suggest features](https://github.com/ToolHive/toolhive) on GitHub.
+- 
 ---
 
 ## 💡 What is ToolHive?
