@@ -1,3 +1,6 @@
+<title>ToolHive – GDPR, NIS2, and ePrivacy made simple</title>
+<link rel="stylesheet" href="style.css">
+<meta name="description" content="ToolHive helps your company track tools, vendors, and data to stay compliant with GDPR, NIS2, and ePrivacy.">
 <p align="center">
   <img src="https://raw.githubusercontent.com/ToolHive/toolhive.github.io/refs/heads/main/full.webp" alt="ToolHive logo" width="200">
 </p>
@@ -12,10 +15,10 @@ We make it easy to track software tools, vendors, and data across your entire or
 
 ## 🔗 Explore ToolHive
 
-- 🌐 Main website: [https://toolhive.io](https://toolhive.io)
-- 📰 Blog: [toolhive.io/blog](https://toolhive.io/blog)
-- 📋 App login: [https://toolhive.app](https://toolhive.app)
-- 💬 Community + roadmap: [ToolHive/toolhive repo](https://github.com/ToolHive/toolhive)
+- 🌐 [Visit our main website](https://toolhive.io) to learn more about the product and our mission.
+- 📰 [Read the ToolHive blog](https://toolhive.io/blog) for insights on GDPR, NIS2, and staying compliant.
+- 📋 [Log into the ToolHive app](https://toolhive.app) and start organizing your tools and data.
+- 💬 [Suggest a feature or join the discussion](https://github.com/ToolHive/toolhive) on our GitHub community repo.
 
 ---
 
