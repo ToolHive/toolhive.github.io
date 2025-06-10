@@ -1,4 +1,3 @@
-<title>ToolHive – GDPR, NIS2, and ePrivacy made simple</title>
 <link rel="stylesheet" href="style.css">
 <meta name="description" content="ToolHive helps your company track tools, vendors, and data to stay compliant with GDPR, NIS2, and ePrivacy.">
 <p align="center">
